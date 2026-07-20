@@ -1,0 +1,13 @@
+**/__pycache__
+.ipynb_checkpoints/
+.idea/
+.env
+wandb/
+figures/
+*.zip
+*.DS_Store*
+
+# Evaluation outputs
+results/
+*_results/
+debug_results/

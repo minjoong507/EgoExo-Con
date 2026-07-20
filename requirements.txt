@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers>=4.49.0
+numpy
+pandas
+tqdm
+easydict
+openai
+requests
+packaging
+Pillow
+decord
