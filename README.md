@@ -1,5 +1,10 @@
 # EgoExo-Con
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.26113-b31b1b.svg)](https://arxiv.org/abs/2510.26113) 
+<a href='https://huggingface.co/datasets/mjjung/EgoExo-Con'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-EgoExo--Con-yellow'></a>
+<a href='https://huggingface.co/mjjung/View-GRPO'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-View--GRPO-blue'></a>
+
+
 **EgoExo-Con** is a benchmark for measuring the *ego–exo consistency* of Video Large
 Language Models (Video-LLMs): given the same event captured from both an
 **exocentric** (third-person) and an **egocentric** (first-person) viewpoint, a model
