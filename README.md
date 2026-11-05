@@ -143,13 +143,15 @@ key via the environment (never commit it):
 export OPENAI_API_KEY=sk-...
 ```
 
-## Citation:
+## Citation
 If you find our work useful, please cite:
 ```aiignore
-@article{jung2025egoexo,
-  title={EgoExo-Con: Exploring View-Invariant Video Temporal Understanding},
+@inproceedings{jung2026egoexo,
+  title={Egoexo-con: Exploring view-invariant video temporal understanding},
   author={Jung, Minjoon and Xiao, Junbin and Kim, Junghyun and Zhang, Byoung-Tak and Yao, Angela},
-  journal={arXiv preprint arXiv:2510.26113},
-  year={2025}
+  booktitle={European Conference on Computer Vision},
+  pages={355--373},
+  year={2026},
+  organization={Springer}
 }
 ```
